@@ -10,4 +10,5 @@ public class BebkaSpringApplication {
 		SpringApplication.run(BebkaSpringApplication.class, args);
 	}
 
+
 }
